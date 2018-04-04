@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alex\'s First AndroidApp</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+</resources>
